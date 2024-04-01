@@ -1,6 +1,6 @@
 ### 💖 A lovable cuddly web nerd here to help YOU!
 
-I'm a queer web developer who cares a lot about crafting fantastic User eXperiences! I have a [personal website](https://pixievoltno1.com/) I'm very proud of~ I'd love to make a living at this Web stuff by getting hired for a Frontend or Full-Stack Web Developer position, but I'm also accepting commissions for individuals who just want their own dream Firefox/Chrome extension on [my Ko-Fi Services page](https://pixievoltno1.com/).
+I'm a queer web developer who cares a lot about crafting fantastic User eXperiences! I have a [personal website](https://pixievoltno1.com/) I'm very proud of~ I'd love to make a living at this Web stuff by getting hired for a Frontend or Full-Stack Web Developer position (remote or San Francisco Bay Area), but I'm also accepting commissions for individuals who just want their own dream Firefox/Chrome extension on [my Ko-Fi Services page](https://pixievoltno1.com/).
 
 These are some of the projects I'm proudest of💞:
 
