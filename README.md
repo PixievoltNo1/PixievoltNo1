@@ -3,6 +3,7 @@
 I'm a queer web developer who cares a lot about crafting fantastic User eXperiences! I have a [personal website](https://pixievoltno1.com/) I'm very proud of~ I'd love to make a living at this Web stuff by getting hired as a Frontend or Full-Stack Web Developer or Browser Extension Developer (remote or San Francisco Bay Area), but I'm also accepting commissions for individuals who just want their own dream Firefox/Chrome extension on [my Ko-Fi Services page](https://pixievoltno1.com/).
 
 I'm participating in TransTech Action Summit 2025, under my real name (normally kept private for safety reasons). Look out for my avatar:
+
 ![feminine person in a blue dress, pink jacket, and long brown hair adorned with pink bows](https://github.com/user-attachments/assets/0d0109bb-8f6c-4bed-9783-8f3be5d681c8)
 
 These are some of the projects I'm proudest of💞:
